@@ -8,4 +8,4 @@ pip install wikipedia
 ```
 Whatever you want to search for, go to ' search here '. And press ' search '.
 The results are brought to the field below.
-![](/myWikipedia.jpg)
+![](/myWikipedia.png)
